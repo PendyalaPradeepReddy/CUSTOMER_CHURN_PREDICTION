@@ -64,11 +64,11 @@ The models were evaluated based on their accuracy scores. The CatBoost Classifie
 
 ### Churn Distribution
 
-![Churn Distribution](C:\Users\Pradeep reddy\Downloads\churn_distribution.png)
+![Churn Distribution](churn_distribution.png)
 
 ### Confusion Matrix (CatBoost)
 
-![Confusion Matrix](C:\Users\Pradeep reddy\Downloads\confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ## How to Run
 
